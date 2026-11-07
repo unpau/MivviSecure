@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Mivvi Secure (Chrome)", "request": "launch", "type": "dart", "deviceId": "chrome", "program": "lib/main.dart" },
+    { "name": "Mivvi Secure (pilih perangkat)", "request": "launch", "type": "dart", "program": "lib/main.dart" }
+  ]
+}
